@@ -1,3 +1,5 @@
+:colorscheme desert
+
 set nocompatible
 filetype off
 
@@ -58,6 +60,7 @@ NeoBundle 'Shougo/neocomplcache'
 NeoBundle 'Shougo/neosnippet'
 NeoBundle 'jpalardy/vim-slime'
 NeoBundle 'scrooloose/syntastic'
+NeoBundle 'scrooloose/nerdtree'
 ""NeoBundle 'https://bitbucket.org/kovisoft/slimv'
 
 filetype plugin indent on     " required!
